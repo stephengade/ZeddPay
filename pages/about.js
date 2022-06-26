@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import Head from "next/head";
 import About from "../components/About/About";
 import Navigation from "../components/AeroHome/Navigation/Navigation";

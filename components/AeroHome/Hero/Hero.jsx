@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import React, { useRef, useEffect } from "react";
 import Image from "next/image";
 import Link from "next/link";

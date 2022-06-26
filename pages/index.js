@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import Head from "next/head";
 
 import AeroHome from "../components/AeroHome/AeroHome";
