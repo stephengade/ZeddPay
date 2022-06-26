@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import ZeddLogo from "../assets/Images/zeddpay-logo.svg";
 
-import FbIcon from "../assets/Images/facebook.svg";
+import FbIcon from '../assets/Images/Facebook.svg';
 import TwIcon from "../assets/Images/Twitter.svg";
 import IgIcon from "../assets/Images/Instagram.svg";
 

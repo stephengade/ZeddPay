@@ -1,8 +1,11 @@
 /* eslint-disable react/jsx-key */
-/* eslint-disable react/jsx-no-undef */
- 
- 
- <><div className="carousel w-full">
+import React from 'react'
+import Image from 'next/image'
+
+export const Text = () => {
+  return (
+    <div>
+    <><div className="carousel w-full">
   <div id="item1" className="carousel-item w-full">
     <Image src={Mockup} className="w-full" alt=""/>
   </div>
@@ -23,3 +26,10 @@
       3
     </a>
   </div></>
+    
+    </div>
+  )
+}
+
+ 
+ 
